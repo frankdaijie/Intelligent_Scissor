@@ -1,6 +1,7 @@
 #include "stdafx.h"
 #include"cost.h"
 
+
 void cal_cost_map(node** cost_map, Mat& l_img)
 {
 	double RGB_cost[3][8];
